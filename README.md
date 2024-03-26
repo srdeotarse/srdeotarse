@@ -1,16 +1,24 @@
-### Hi there 👋
+  <!--  HeadLine -->
+#![alt text](./images/Amey.png)
+  <!--  HeadLine Ends -->
 
-<!--
-**srdeotarse/srdeotarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![ameygoes's Stats](https://github-readme-stats.vercel.app/api?username=srdeotarse&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+  ![ameygoes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=srdeotarse&theme=highcontrast&hide_border=false)
+  ![ameygoes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srdeotarse&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+#  ![](https://hit.yhype.me/github/profile?user_id=39159923)
 
-Here are some ideas to get you started:
+  <hr>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- A bit about what I do? -->
+  - 🔭 I’m currently a Computer Science Graduate Student at Arizona State University.
+
+  - 🌱 Visit my [Portfolio](https://ameyportfolio.netlify.app/)
+  
+  - 👯 I’m looking for Summer Internship Opportunities to expand my knowledge and network.
+
+  - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/srdeotarse)
+
+  - 📫 How to reach me **sdeotars@asu.edu**
+
+  - ⚡ Fun fact  ![](https://komarev.com/ghpvc/?username=srdeotarse&style=for-the-badge)
+  
