@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Deotarse</h1>
 <h2 align="center">Code Artisan - Crafting in the Digital Realm</h2>
 <h3 align="center">A digital craftsman currently pursuing MS in Computer Science from Arizona State University.</h3>
-<h3 align="center">SDE Intern at Red Hat and Open Source Contributor for Google Summer of Code 2022 program under Zulip.</h3>
+<h3 align="center">SDE Intern at Red Hat and Open Source Contributor for Google Summer of Code under Zulip.</h3>
 
 ## 
 
